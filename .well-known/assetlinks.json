@@ -2,6 +2,14 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.emburse.mobile",
+    "sha256_cert_fingerprints":
+    ["AD:12:C8:B6:46:0B:3F:85:44:80:05:9B:A8:AF:A4:24:61:D6:62:23:70:FF:17:09:55:A1:69:81:A3:18:0C:8D"]
+  }
+}, {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.emburse.mobile.test",
     "sha256_cert_fingerprints":
     ["AD:12:C8:B6:46:0B:3F:85:44:80:05:9B:A8:AF:A4:24:61:D6:62:23:70:FF:17:09:55:A1:69:81:A3:18:0C:8D"]
